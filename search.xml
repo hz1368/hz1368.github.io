@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>npm_编译出错处理</title>
+      <link href="2021/01/07/npm-bian-yi-chu-cuo-chu-li/"/>
+      <url>2021/01/07/npm-bian-yi-chu-cuo-chu-li/</url>
+      
+        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></h2><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr><h2 id="未完待续！"><a href="#未完待续！" class="headerlink" title="未完待续！"></a>未完待续！</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翼龙 </tag>
+            
+            <tag> Markdown </tag>
+            
+            <tag> npm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Video</title>
       <link href="2019/09/07/video/"/>
       <url>2019/09/07/video/</url>
