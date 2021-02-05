@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.52elong.pub/elongshop/index.html</loc>
+    
+    <lastmod>2021-02-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.52elong.pub/2018/09/07/formart/</loc>
     
     <lastmod>2021-02-05</lastmod>
@@ -137,14 +144,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.pub/tags/npm/</loc>
+    <loc>https://www.52elong.pub/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.pub/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://www.52elong.pub/tags/npm/</loc>
     <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
