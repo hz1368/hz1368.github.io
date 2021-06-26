@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.52elong.com/2021/06/25/hello-world/</loc>
+    
+    <lastmod>2021-06-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.52elong.com/2021/06/23/blogtest1/</loc>
     
     <lastmod>2021-06-26</lastmod>
@@ -54,13 +61,6 @@
     <loc>https://blog.52elong.com/categories/index.html</loc>
     
     <lastmod>2021-06-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.52elong.com/2021/06/25/hello-world/</loc>
-    
-    <lastmod>1985-10-26</lastmod>
     
   </url>
   
