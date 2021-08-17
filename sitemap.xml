@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.52elong.com/2021/06/23/blogtest1/</loc>
+    
+    <lastmod>2021-08-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.52elong.com/2021/06/23/music/</loc>
     
     <lastmod>2021-06-26</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://blog.52elong.com/2021/01/07/hello-world/</loc>
-    
-    <lastmod>2021-06-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.52elong.com/2021/06/23/blogtest1/</loc>
     
     <lastmod>2021-06-26</lastmod>
     
@@ -81,6 +81,13 @@
 
   
   <url>
+    <loc>https://blog.52elong.com/tags/course/</loc>
+    <lastmod>2021-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.52elong.com/tags/Typora/</loc>
     <lastmod>2021-08-17</lastmod>
     <changefreq>daily</changefreq>
@@ -89,13 +96,6 @@
   
   <url>
     <loc>https://blog.52elong.com/tags/Markdown/</loc>
-    <lastmod>2021-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.52elong.com/tags/course/</loc>
     <lastmod>2021-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -111,14 +111,14 @@
 
   
   <url>
-    <loc>https://blog.52elong.com/categories/Markdown/</loc>
+    <loc>https://blog.52elong.com/categories/course/</loc>
     <lastmod>2021-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.52elong.com/categories/course/</loc>
+    <loc>https://blog.52elong.com/categories/Markdown/</loc>
     <lastmod>2021-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
