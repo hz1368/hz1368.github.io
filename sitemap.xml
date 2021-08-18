@@ -81,6 +81,13 @@
 
   
   <url>
+    <loc>https://blog.52elong.com/tags/course/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.52elong.com/tags/Typora/</loc>
     <lastmod>2021-08-18</lastmod>
     <changefreq>daily</changefreq>
@@ -101,24 +108,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.52elong.com/tags/course/</loc>
-    <lastmod>2021-08-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://blog.52elong.com/categories/Markdown/</loc>
+    <loc>https://blog.52elong.com/categories/course/</loc>
     <lastmod>2021-08-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.52elong.com/categories/course/</loc>
+    <loc>https://blog.52elong.com/categories/Markdown/</loc>
     <lastmod>2021-08-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
