@@ -6,7 +6,7 @@
   <link href="https://www.52elong.pub/atom.xml" rel="self"/>
   
   <link href="https://www.52elong.pub/"/>
-  <updated>2021-08-19T03:51:00.000Z</updated>
+  <updated>2021-08-19T04:02:18.000Z</updated>
   <id>https://www.52elong.pub/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.52elong.pub/2021/08/19/residue/"/>
     <id>https://www.52elong.pub/2021/08/19/residue/</id>
     <published>2021-08-19T03:35:42.000Z</published>
-    <updated>2021-08-19T03:51:00.000Z</updated>
+    <updated>2021-08-19T04:02:18.000Z</updated>
     
     
       
@@ -36,6 +36,8 @@
     
     <category term="IT" scheme="https://www.52elong.pub/categories/IT/"/>
     
+    
+    <category term="it" scheme="https://www.52elong.pub/tags/it/"/>
     
   </entry>
   

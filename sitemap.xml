@@ -88,6 +88,13 @@
 
   
   <url>
+    <loc>https://www.52elong.pub/tags/course/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.52elong.pub/tags/Typora/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
@@ -102,14 +109,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.pub/tags/course/</loc>
+    <loc>https://www.52elong.pub/tags/music/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.pub/tags/music/</loc>
+    <loc>https://www.52elong.pub/tags/it/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -118,14 +125,14 @@
 
   
   <url>
-    <loc>https://www.52elong.pub/categories/Markdown/</loc>
+    <loc>https://www.52elong.pub/categories/course/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.pub/categories/course/</loc>
+    <loc>https://www.52elong.pub/categories/Markdown/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
