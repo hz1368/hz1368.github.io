@@ -6,7 +6,7 @@
   <link href="https://www.52elong.pub/atom.xml" rel="self"/>
   
   <link href="https://www.52elong.pub/"/>
-  <updated>2021-08-19T03:10:38.000Z</updated>
+  <updated>2021-08-19T03:51:00.000Z</updated>
   <id>https://www.52elong.pub/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>music</title>
-    <link href="https://www.52elong.pub/2021/06/23/music/"/>
-    <id>https://www.52elong.pub/2021/06/23/music/</id>
-    <published>2021-06-23T01:25:00.000Z</published>
-    <updated>2021-08-19T03:10:38.000Z</updated>
+    <title>Indian scientists develop system to generate hydrogen from agricultural residue</title>
+    <link href="https://www.52elong.pub/2021/08/19/residue/"/>
+    <id>https://www.52elong.pub/2021/08/19/residue/</id>
+    <published>2021-08-19T03:35:42.000Z</published>
+    <updated>2021-08-19T03:51:00.000Z</updated>
     
     
       
@@ -34,12 +34,8 @@
     
     
     
-    <category term="Markdown" scheme="https://www.52elong.pub/categories/Markdown/"/>
+    <category term="IT" scheme="https://www.52elong.pub/categories/IT/"/>
     
-    
-    <category term="music" scheme="https://www.52elong.pub/tags/music/"/>
-    
-    <category term="Markdown" scheme="https://www.52elong.pub/tags/Markdown/"/>
     
   </entry>
   
@@ -64,9 +60,36 @@
     <category term="Markdown" scheme="https://www.52elong.pub/categories/Markdown/"/>
     
     
+    <category term="Typora" scheme="https://www.52elong.pub/tags/Typora/"/>
+    
     <category term="Markdown" scheme="https://www.52elong.pub/tags/Markdown/"/>
     
-    <category term="Typora" scheme="https://www.52elong.pub/tags/Typora/"/>
+  </entry>
+  
+  <entry>
+    <title>music</title>
+    <link href="https://www.52elong.pub/2021/06/23/music/"/>
+    <id>https://www.52elong.pub/2021/06/23/music/</id>
+    <published>2021-06-23T01:25:00.000Z</published>
+    <updated>2021-08-19T03:10:38.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="https://www.52elong.pub/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://www.52elong.pub/tags/Markdown/"/>
+    
+    <category term="music" scheme="https://www.52elong.pub/tags/music/"/>
     
   </entry>
   
