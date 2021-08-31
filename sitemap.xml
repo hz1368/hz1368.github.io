@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.52elong.pub/2021/06/23/13-yao-zhang-jie/</loc>
+    
+    <lastmod>2021-08-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.52elong.pub/2021/01/07/hello-world/</loc>
     
     <lastmod>2021-08-20</lastmod>
@@ -109,6 +116,13 @@
   </url>
   
   <url>
+    <loc>https://www.52elong.pub/tags/it/</loc>
+    <lastmod>2021-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.52elong.pub/tags/music/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
@@ -116,7 +130,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.pub/tags/it/</loc>
+    <loc>https://www.52elong.pub/tags/news/</loc>
+    <lastmod>2021-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.pub/tags/It/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
