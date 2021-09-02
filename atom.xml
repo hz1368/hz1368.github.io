@@ -6,7 +6,7 @@
   <link href="https://www.52elong.pub/atom.xml" rel="self"/>
   
   <link href="https://www.52elong.pub/"/>
-  <updated>2021-08-19T04:02:18.000Z</updated>
+  <updated>2021-09-02T08:01:36.000Z</updated>
   <id>https://www.52elong.pub/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello 2022</title>
+    <link href="https://www.52elong.pub/2021/09/01/test2/"/>
+    <id>https://www.52elong.pub/2021/09/01/test2/</id>
+    <published>2021-09-01T01:25:00.000Z</published>
+    <updated>2021-09-02T08:01:36.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="course" scheme="https://www.52elong.pub/categories/course/"/>
+    
+    
+    <category term="course" scheme="https://www.52elong.pub/tags/course/"/>
+    
+  </entry>
   
   <entry>
     <title>Indian scientists develop system to generate hydrogen from agricultural residue</title>
@@ -69,33 +94,6 @@
   </entry>
   
   <entry>
-    <title>music</title>
-    <link href="https://www.52elong.pub/2021/06/23/music/"/>
-    <id>https://www.52elong.pub/2021/06/23/music/</id>
-    <published>2021-06-23T01:25:00.000Z</published>
-    <updated>2021-08-19T03:10:38.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://www.52elong.pub/categories/Markdown/"/>
-    
-    
-    <category term="Markdown" scheme="https://www.52elong.pub/tags/Markdown/"/>
-    
-    <category term="music" scheme="https://www.52elong.pub/tags/music/"/>
-    
-  </entry>
-  
-  <entry>
     <title>半导体超级周期开启，电脑攒机成为“奢侈品”</title>
     <link href="https://www.52elong.pub/2021/06/23/13-yao-zhang-jie/"/>
     <id>https://www.52elong.pub/2021/06/23/13-yao-zhang-jie/</id>
@@ -119,6 +117,33 @@
     <category term="news" scheme="https://www.52elong.pub/tags/news/"/>
     
     <category term="It" scheme="https://www.52elong.pub/tags/It/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>music</title>
+    <link href="https://www.52elong.pub/2021/06/23/music/"/>
+    <id>https://www.52elong.pub/2021/06/23/music/</id>
+    <published>2021-06-23T01:25:00.000Z</published>
+    <updated>2021-08-19T03:10:38.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="https://www.52elong.pub/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://www.52elong.pub/tags/Markdown/"/>
+    
+    <category term="music" scheme="https://www.52elong.pub/tags/music/"/>
     
   </entry>
   
