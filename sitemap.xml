@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.52elong.pub/2021/09/26/tong-yi/</loc>
+    
+    <lastmod>2021-09-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.52elong.pub/2021/09/01/test2/</loc>
     
     <lastmod>2021-09-02</lastmod>
@@ -102,13 +109,6 @@
 
   
   <url>
-    <loc>https://www.52elong.pub/tags/it/</loc>
-    <lastmod>2021-09-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.pub/tags/news/</loc>
     <lastmod>2021-09-26</lastmod>
     <changefreq>daily</changefreq>
@@ -144,6 +144,13 @@
   </url>
   
   <url>
+    <loc>https://www.52elong.pub/tags/it/</loc>
+    <lastmod>2021-09-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.52elong.pub/tags/music/</loc>
     <lastmod>2021-09-26</lastmod>
     <changefreq>daily</changefreq>
@@ -151,13 +158,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://www.52elong.pub/categories/IT/</loc>
-    <lastmod>2021-09-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://www.52elong.pub/categories/Markdown/</loc>
@@ -168,6 +168,13 @@
   
   <url>
     <loc>https://www.52elong.pub/categories/course/</loc>
+    <lastmod>2021-09-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.pub/categories/IT/</loc>
     <lastmod>2021-09-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
